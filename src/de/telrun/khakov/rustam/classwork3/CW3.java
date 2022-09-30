@@ -1,4 +1,4 @@
-package classwork3;
+package de.telrun.khakov.rustam.classwork3;
 
 /**
  * @author Rustam Khakov

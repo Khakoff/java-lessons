@@ -1,4 +1,4 @@
-package game.hero;
+package de.telrun.khakov.rustam.game.hero;
 
 /**
  * @author Rustam Khakov

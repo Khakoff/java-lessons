@@ -1,11 +1,11 @@
-package homework3;
+package de.telrun.khakov.rustam.homework3;
 
 /**
  * @author Rustam Khakov
  */
 public class HW3 {
 	public static void main(String[] args) {
-		String studyStr = "I study Basic Lessons  Java!";
+		String studyStr = "I study Basic Java!";
 		System.out.println(studyStr);
 		System.out.println(studyStr.charAt(studyStr.length() - 1));
 		System.out.println(studyStr.contains("Java"));

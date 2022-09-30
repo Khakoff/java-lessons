@@ -1,3 +1,5 @@
+package de.telrun.khakov.rustam;
+
 /**
  * @author Rustam Khakov
  */
