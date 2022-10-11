@@ -5,8 +5,8 @@ package de.telrun.khakov.rustam.homework6;
  */
 public class Task1 {
 	public static void main(String[] args) {
-		int test = 1;
-		int test1 = 3;
-		System.out.println(test % test1 == 0);
+		int divider = 1;
+		int division = 3;
+		System.out.println(divider % division == 0);
 	}
 }
