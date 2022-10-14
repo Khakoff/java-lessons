@@ -118,10 +118,11 @@ public class CW1 {
 	}
 
 	public static int is(Object o) {
-		return switch (o) {
-			case Integer i -> i++;
-			case String s->Integer.parseInt(s);
-			default -> 0;
-		};
+//		return switch (o) {
+//			case Integer i -> i++;
+//			case String s->Integer.parseInt(s);
+//			default -> 0;
+//		};
+		return 1;
 	}
 }
